@@ -1,0 +1,36 @@
+<?php
+
+    return array(
+       'add_room_type' => 'Thêm loại phòng',
+       'update_room_type' => 'Cập nhật loại phòng',
+       'name' => 'Tên',
+       'machine_name' => 'Bí danh',
+       'alias' => 'Tên đường dẫn',
+       'parent' => 'Danh mục cha',
+       'image' => 'Hình ảnh',
+       'no_parent' => 'Chọn',
+       'created_at' => 'Tạo lúc',
+       'created_by' => 'Tạo bởi',
+       'description' => 'Mô tả',
+       'weight' => 'Thứ tự',
+       'type' => 'Loại',
+       'hotel' => 'Khách sạn',
+       'search' => 'Tìm kiếm loại phòng',
+       'cancel' => 'Cho phép hủy',
+       'cancel_policy' => 'Chính sách hủy',
+       'price'          => 'Giá',
+       'price_km'       => 'Giá khuyến mãi',
+       'price_cancel'   => 'Giá cho phép hoàn hủy',
+       'price_cancel_km'=> 'Giá khuyến mãi cho phép hoàn hủy',
+       'customer'=> 'Số người',
+       'option_no_price'=>'Tùy chọn thêm đã tính vào giá phòng',
+       'option_extra'=>'Tùy chọn thêm đã tính giá riêng',
+       'inactive_no_cancel'=>'Ẩn giá không cho hủy',
+       'active_no_cancel'=>'Hiện giá không cho hủy',
+       'inactive_cancel'=>'Ẩn giá cho phép hủy',
+       'active_cancel'=>'Hiện giá cho phép hủy',
+       //list
+       'add_type' => 'Thêm kiểu',
+       'confirm_delete' => 'Xóa kiểu này?',
+
+     );

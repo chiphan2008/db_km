@@ -1,0 +1,87 @@
+<?php
+
+return array(
+  'client' => 'Client',
+  'created_total' => 'created total',
+  'liked_total' => 'liked total',
+  'voted_total' => 'voted total',
+  'posts' => 'posts',
+  'vote' => 'Vote',
+  'like' => 'Like',
+  'content' => 'Content',
+  'phone' => 'Phone',
+  'birthday' => 'Birthday',
+  'address' => 'Address',
+    'id_client' => 'ID',
+  'name' => 'Name',
+  'type' => 'Type',
+  'moderation' => 'Moderation',
+  'votes' => 'Votes',
+  'view_content' => 'View Content',
+  'created_at' => 'Created at',
+
+  'id' => 'ID',
+  'full_name' => 'Full Name',
+  'email' => 'Email',
+  'info' => 'Infomation',
+  'activity' => 'Activity',
+  'status' => 'Status',
+  'confirm_delete' => 'Are you sure change status?',
+  'detail' => 'Detail',
+  'lock' => 'Lock',
+  'unlock' => 'Unlock',
+
+  'area' => 'Area',
+  'save' => 'Save',
+  'ctv_input' => 'Input name, email, phone to find client',
+  'request' => 'Waiting accept',
+  'accept' => 'Accept',
+  'area' => 'Area',
+  'decline' => 'Decline',
+
+  'add_daily' => 'Add agency',
+  'add_ctv_button' => 'Add collaborators',
+  'input_user' => 'Input name, email or number phone of user',
+  'client_group' => 'Group',
+  'static' => 'Static',
+
+  
+  'accept_ctv' => 'Your request to be collaborators for :daily is acccepted',
+  'decline_ctv' => 'Your request to be collaborators for :daily is declined',
+  'remove_ctv' => 'You are not collaborators of agency :daily',
+  'add_ctv' => 'You are collaborators of agency :daily',
+  'unlock_ctv' => 'You have been unlocked by agency :daily',
+  'lock_ctv' => 'You have been locked by agency :daily',
+
+  'accept_ctv_api' => 'Acccepted collaborators',
+  'decline_ctv_api' =>'Declined collaborators',
+  'remove_ctv_api' =>'Deleted collaborators',
+  'add_ctv_api' =>'Added collaborators',
+  'unlock_ctv_api' =>'Unlocked collaborators',
+  'lock_ctv_api' =>'Locked collaborators',
+
+  'publish_content' => 'Location :content is published',
+  'reject_content' => 'Requesting publish of location :content is declined',
+
+  'publish_content_api' => 'Locations are published',
+  'reject_content_api' => 'Locations are declined',
+
+  'unlock_daily' => 'Agency :daily are unlocked',
+  'lock_daily' => 'Agency :daily are locked',
+  'unlock_daily_api' =>'Unlocked agency',
+  'lock_daily_api' =>'Locked agency',
+
+  'move_ctv' => 'Move collaborators',
+  'daily' => 'Agency',
+  'ctv' => 'Collaborator',
+  'to_daily' => 'Move to agency',
+  'from_daily' => 'Move from agency',
+  'rate_revenue' => 'Rate revenue',
+
+  'move_content' => 'Move all content of collaborators to new agency',
+
+  'cmnd' => 'ID card',
+  'cmnd_image' => 'ID card image',
+  'cmnd_image_front' => 'ID card image front',
+  'cmnd_image_back' => 'ID card image back',
+);
